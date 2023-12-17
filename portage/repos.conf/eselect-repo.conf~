@@ -1,0 +1,11 @@
+# created by eselect-repo
+
+[librewolf]
+location = /var/db/repos/librewolf
+sync-type = git
+sync-uri = https://gitlab.com/librewolf-community/browser/gentoo.git
+
+[brave-overlay]
+location = /var/db/repos/brave-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/brave-overlay.git

@@ -1,0 +1,5 @@
+app-emulation/libguestfs ~amd64
+app-misc/hivex ~amd64
+app-emulation/libguestfs-appliance ~amd64
+dev-ml/ocaml-gettext ~amd64
+dev-ml/ocaml-fileutils ~amd64

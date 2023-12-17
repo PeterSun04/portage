@@ -1,0 +1,3 @@
+app-emulation/qemu alsa jack spice usbredir usb udev opengl vhost-net virgl
+app-emulation/libvirt pcap virt-network numa fuse macvtap vepa qemu
+app-emulation/virt-manager gui

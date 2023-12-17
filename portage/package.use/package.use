@@ -1,0 +1,5 @@
+sys-kernel/linux-firmware initramfs
+app-editors/neovim tui
+sys-auth/pambase elogind
+x11-base/xorg-server suid
+sys-process/htop hwloc lm-sensors
